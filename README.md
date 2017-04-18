@@ -1,9 +1,14 @@
-# api documentation for  [hubot (v2.19.0)](https://github.com/github/hubot#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot)
+# npmdoc-hubot
+
+#### api documentation for  [hubot (v2.19.0)](https://github.com/github/hubot#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot)
+
 #### A simple helpful robot for your Company
 
-[![NPM](https://nodei.co/npm/hubot.png?downloads=true)](https://www.npmjs.com/package/hubot)
+[![NPM](https://nodei.co/npm/hubot.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hubot)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-hubot/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-hubot_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hubot/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-hubot/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-hubot/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-hubot/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hubot/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-hubot/build/screenCapture.npmPackageListing.svg)
 
@@ -67,25 +72,20 @@
     "main": "./index",
     "maintainers": [
         {
-            "name": "technicalpickles",
-            "email": "josh@technicalpickles.com"
+            "name": "technicalpickles"
         },
         {
-            "name": "bhuga",
-            "email": "blavender+npm@gmail.com"
+            "name": "bhuga"
         },
         {
-            "name": "bkeepers",
-            "email": "brandon@opensoul.org"
+            "name": "bkeepers"
         },
         {
-            "name": "michaelansel",
-            "email": "npm@anselcomputers.com"
+            "name": "michaelansel"
         }
     ],
     "name": "hubot",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/github/hubot.git"
@@ -96,16 +96,6 @@
     "version": "2.19.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module hubot](#apidoc.module.hubot)
-
-
-
-# <a name="apidoc.module.hubot"></a>[module hubot](#apidoc.module.hubot)
 
 
 
