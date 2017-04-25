@@ -1,6 +1,6 @@
 # npmdoc-hubot
 
-#### api documentation for  [hubot (v2.19.0)](https://github.com/github/hubot#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot)
+#### basic api documentation for  [hubot (v2.19.0)](https://github.com/github/hubot#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot)
 
 #### A simple helpful robot for your Company
 
